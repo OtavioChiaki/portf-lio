@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+body {
+    background-color: rgb(1, 71, 177);
+    background-color: linear-gradient(180deg, rgba(1, 71, 177, 1) 0%, rgba(2, 38, 92, 1) 51%, rgba(6, 27, 58, 1) 73%);
+}
+
+.container-grid {
+    width: 80vw;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.container-grid a {
+    color: antiquewhite;
+}
